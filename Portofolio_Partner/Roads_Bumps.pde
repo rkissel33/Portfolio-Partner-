@@ -1,0 +1,1 @@
+//an object array, appear, be destroyed
