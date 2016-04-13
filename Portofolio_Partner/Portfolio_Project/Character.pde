@@ -1,0 +1,1 @@
+//abilities: jumping, running, gainpoint, crash
